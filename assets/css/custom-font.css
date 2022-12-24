@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Edwardian Script ITC; /* required */
+  src: url('/assets/fonts/Edwardian-Scr-Alt-ITC-TT.otf');  /* IE9 Compat Modes */
+  src: url('/assets/fonts/Edwardian-Scr-Alt-ITC-TT.otf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+
+  src: url('/assets/fonts/Edwardian-Scr-Alt-ITC-TT.ttf') format('truetype');
+}
+
